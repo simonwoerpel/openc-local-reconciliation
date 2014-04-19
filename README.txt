@@ -33,4 +33,4 @@ Instructions:
      $ cd my_recon_service
      $ python example_composers_reconciliation_service.py'.
 
-   This will start a reconciliation service on port 5000 which you can use with Refine by using the URL http://127.0.0.1:5000/reoncile
+   This will start a reconciliation service on port 5000 which you can use with Refine by using the URL http://127.0.0.1:5000/reconcile
